@@ -1,3 +1,6 @@
 [submodule "rime-essay"]
 	path = rime-essay
 	url = git@github.com:rime/rime-essay.git
+[submodule "rime-essay-simp"]
+	path = rime-essay-simp
+	url = git@github.com:rime/rime-essay-simp.git
